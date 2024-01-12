@@ -1,0 +1,6 @@
+{
+    "provider": "hashicorp/tls",
+    "version": "4.0.4",
+    "dest": "src/tls",
+	"feature_gate": "Cargo.toml"
+}
